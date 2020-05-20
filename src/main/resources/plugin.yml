@@ -1,0 +1,8 @@
+name: OpenVouchers
+version: @version@
+main: org.openspigot.openvouchers.OpenVouchers
+api-version: 1.13
+prefix: OpenVouchers
+authors: [Ghqst, LegendEffects, KingAlterIV]
+description: A free, open source Spigot 1.15.2 plugin for the creation of infinite custom vouchers
+website: openspigot.org
